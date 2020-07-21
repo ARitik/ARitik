@@ -9,9 +9,7 @@ I work on full-stack applications primarily on the MERN stack. I also experiment
 
 You can find me on the web below 🌍
 
-[LinkedIn](https://www.linkedin.com/in/ambadi-ritik-017b6318b/) 🌈
-
-[Facebook](https://www.facebook.com/ambadiritik.krishnan) 🌻
-
-[Instagram](https://www.instagram.com/ambadi_ritik/) 🌳
+[LinkedIn](https://www.linkedin.com/in/ambadi-ritik-017b6318b/) 
+[Facebook](https://www.facebook.com/ambadiritik.krishnan) 
+[Instagram](https://www.instagram.com/ambadi_ritik/) 
 
