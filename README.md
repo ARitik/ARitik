@@ -1,6 +1,6 @@
 
 
-[![image](https://www.linkpicture.com/q/Green-and-White-Technology-LinkedIn.png)]
+![image](https://www.linkpicture.com/q/Green-and-White-Technology-LinkedIn.png)
 
 I'm a software developer and a blockchain enthusiast. 🌟
 
