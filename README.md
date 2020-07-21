@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**ARitik/ARitik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![image](https://www.linkpicture.com/q/Green-and-White-Technology-LinkedIn.png)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer and a blockchain enthusiast. 🌟
+
+I am a Javascript developer working with the latest and greatest frameworks , the community has to offer. ✨
+I work on full-stack applications primarily on the MERN stack. I also experiment with PostGres and GraphQL for full-stack applications as well as Svelte for applications that need to be much more light-weight. I also write blog articles on [silica](https://spiritan.wordpress.com) and [dev.to](https://dev.to/aritik).
+
+You can find me on the web 🌍
+
+[LinkedIn](https://www.linkedin.com/in/ambadi-ritik-017b6318b/) 🌈
+
+[Facebook](https://www.facebook.com/ambadiritik.krishnan) 🌻
+
+[Instagram](https://www.instagram.com/ambadi_ritik/) 🌳
+
