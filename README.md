@@ -13,10 +13,11 @@ I work on full-stack applications primarily on the MERN stack. I also experiment
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+
 ![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ARitik&hide=stars,prs,issues,contribs)
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARitik&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARitik&layout=compact)
 
 
 <br>
