@@ -15,11 +15,11 @@ I work on full-stack applications primarily on the MERN stack. I also experiment
 
 ## Blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Auth Routes with Express](https://dev.to/aritik/setting-up-auth-routes-with-express-57oi)
 - [Build a Weather CLI Tool using NodeJS , Inquirer and WeatherAPI](https://dev.to/aritik/build-a-weather-cli-tool-using-nodejs-inquirer-and-weatherapi-2f5n)
 - [Neumorphism in CSS with just two variables!  ](https://dev.to/aritik/neumorphism-in-css-with-just-two-variables-2p30)
 - [Connecting to MongoDB using Mongoose 🌳](https://dev.to/aritik/connecting-to-mongodb-using-mongoose-3akh)
 - [Authentication and Authorisation on the web](https://dev.to/aritik/writing-a-basic-authentication-api-with-express-and-mongodb-1-j8)
-- [Making Sense of the Web (Introduction) ](https://dev.to/aritik/making-sense-of-the-web-introduction-2050)
 <!-- BLOG-POST-LIST:END -->
 
 
