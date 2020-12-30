@@ -15,11 +15,11 @@ I work on full-stack applications primarily on the MERN stack. I also experiment
 
 ## Blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [What is Prisma?](https://techly.live/what-is-prisma)
 - [Read this before you learn JS](https://techly.live/read-this-before-you-learn-js)
 - [Where do I go from here?](https://dev.to/aritik/where-do-i-go-from-here-33ne)
 - [Setting up Auth Routes with Express](https://dev.to/aritik/setting-up-auth-routes-with-express-57oi)
 - [Build a Weather CLI Tool using NodeJS , Inquirer and WeatherAPI](https://dev.to/aritik/build-a-weather-cli-tool-using-nodejs-inquirer-and-weatherapi-2f5n)
-- [Neumorphism in CSS with just two variables!](https://dev.to/aritik/neumorphism-in-css-with-just-two-variables-2p30)
 <!-- BLOG-POST-LIST:END -->
 
 
